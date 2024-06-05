@@ -85,11 +85,8 @@ git push origin main
 ```
 
 ## Chose a data set
-I chose a data set that is pre-installed in Seaborn. Using a well known and clean dataset ensures that I can focus on the required specifications and skills in the project instead of spending time cleaning the data. The data set that I chose was:
-
-- [tips.csv](https://github.com/mwaskom/seaborn-data/blob/master/tips.csv)
-
-This data documents a set of 245 total restaurant bills --- complete with total bill amount, tip amount, party size, day of the week, time of day, smoker status, and customer gender. 
+I chose a data set that is pre-installed in Seaborn. Using a well known and clean dataset ensures that I can focus on the required specifications and skills in the project instead of spending time cleaning the data. The data set that I chose was on healthexp.csv.
+ 
 
 ## Imported local dependencies and loaded data
 Imported required local dependencies and loaded the required data into vs code.
@@ -133,7 +130,7 @@ Created multiple histograms to analyze the data distribution of both the numeric
 ## Data transformation and feature engineering
 Transformed the data by renaming two columns and adding one additional column.
 
-## Chose two goal questions to answer
+## Chose a goal questions to answer
 Chose the following a questions to answer through data analysis:
 "How many years would the Great Britain take to catch up in terms of life expectancy. 
 
@@ -150,5 +147,4 @@ git push origin main
 
 ```
 
-## Created Module 6 project according to the following specifications:
-- 
+ 
